@@ -98,11 +98,3 @@ proto.file_proto()
 static.file_static()
 main.file_main()
 eof.file_eof()
-
-
-
-
-
-
-
-
